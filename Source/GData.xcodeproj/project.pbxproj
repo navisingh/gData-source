@@ -6504,7 +6504,7 @@
 					"$(inherited)",
 					"-DGDATA_IPHONE=1",
 					"-DGDATA_REQUIRE_SERVICE_INCLUDES=1",
-					"-DGDATA_INCLUDE_SPREADSHEETS_SERVICE=1",
+					"-DGDATA_INCLUDE_SPREADSHEET_SERVICE=1",
 				);
 				PRODUCT_NAME = GDataTouchStaticLib;
 				SDKROOT = iphoneos;
@@ -6521,7 +6521,7 @@
 					"$(inherited)",
 					"-DGDATA_IPHONE=1",
 					"-DGDATA_REQUIRE_SERVICE_INCLUDES=1",
-					"-DGDATA_INCLUDE_SPREADSHEETS_SERVICE=1",
+					"-DGDATA_INCLUDE_SPREADSHEET_SERVICE=1",
 				);
 				PRODUCT_NAME = GDataTouchStaticLib;
 				SDKROOT = iphoneos;
